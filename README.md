@@ -1,7 +1,5 @@
 # Experiment-8
 
-# Create a BMI Calculator using React
-
 ## Aim:
 To Create a BMI Calculator using React
 
