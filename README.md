@@ -17,7 +17,8 @@ To Create a BMI Calculator using React
 
 ## Output:
 
-![image](https://github.com/SaiDarshan2003/Bmi/assets/94692595/075d8523-5459-43c7-a37f-159eead5346e)
+![image](https://github.com/SaiDarshan2003/Bmi/assets/94692595/fb411066-d1d2-4afb-b0d7-4cbc809942e9)
+
 
 
 ## Result:
